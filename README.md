@@ -2,7 +2,7 @@
 
 ## Teamleden (en taken)
 - Steale van Walbeek
-- Rosemerijn der Drimmelen
+- Rosemerijn van Drimmelen
 
 ## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud"# M2Git_Merge" 
+- https://39149.hosts2.ma-cloud.nl/git/opdracht-m22merge/
